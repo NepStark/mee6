@@ -24,3 +24,4 @@ If you want to create a plugin for the bot, do not hesitate to contact me in
 
 You have to be at least a little bit familiar with **asyncio** python library 
 and with python in general.
+[![Run on Repl.it](https://repl.it/badge/github/cookkkie/mee6)](https://repl.it/github/cookkkie/mee6)
